@@ -1,6 +1,5 @@
 "use client"
-
-import { Box } from '@chakra-ui/react'
+import Box from '@/components/Box'
 import React from 'react'
 import { BounceLoader } from 'react-spinners'
 
