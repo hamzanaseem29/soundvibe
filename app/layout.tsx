@@ -12,7 +12,7 @@ import getActiveProductsWithPrices from "@/actions/getActiveProductsWithPrices";
 const font = Figtree({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Song Vibe",
+  title: "Soundvibe",
   description: "Listen to music!",
 };
 export const revalidate = 0;
