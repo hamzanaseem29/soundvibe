@@ -1,10 +1,10 @@
-Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
+Full Stack Soundvibe Music Streaming Web App with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
 For DEMO, use Stripe Testing Cards
 
 This is a repository for a Full Stack Soundvibe music streaming web app with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
-VIDEO TUTORIAL
+
 
 Key Features:
 
